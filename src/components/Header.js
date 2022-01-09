@@ -91,7 +91,7 @@ position:fixed;
 top:0;
 bottom:0;
 right:0;
-background:white;
+background:yellow;
 width:300px;
 z-index:2;
 list-style:none;
